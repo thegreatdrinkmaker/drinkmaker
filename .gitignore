@@ -1,3 +1,4 @@
 raks_env/*
 *.pyc
 *.sqlite3
+.tags*
