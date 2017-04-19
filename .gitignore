@@ -1,0 +1,3 @@
+raks_env/*
+*.pyc
+*.sqlite3
